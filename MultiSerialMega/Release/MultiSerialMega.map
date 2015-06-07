@@ -1,0 +1,1101 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                              ./src/main.o (_ZN14HardwareSerial9availableEv)
+/Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                              ./src/main.o (Serial)
+/Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                              ./src/main.o (Serial1)
+/Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+/Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+/Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                              ./src/main.o (init)
+/Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(hooks.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o) (yield)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o (exit)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o) (__do_copy_data)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o) (__do_clear_bss)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o) (__do_global_ctors)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o) (__tablejump_elpm__)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__subsf3)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o) (__addsf3x)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__ltsf2)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__divsf3)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o) (__divsf3x)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__fixsfsi)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__fixunssfsi)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(floatsisf.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__floatunsisf)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_cmp.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o) (__fp_cmp)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_inf.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o) (__fp_inf)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_nan.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o) (__fp_nan)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscA.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o) (__fp_pscA)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscB.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o) (__fp_pscB)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_round.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o) (__fp_round)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_split3.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o) (__fp_split3)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_zero.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o) (__fp_zero)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__gtsf2)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__mulsf3)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o) (__mulsf3x)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(unordsf2.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o) (__unordsf2)
+/Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a(abort.o)
+                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o) (abort)
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .group         0x00000000        0x8 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .text._Z14serialEventRunv
+                0x00000000       0x7a /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x38 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00000000       0x1e /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+ .text._Z17Serial0_availablev
+                0x00000000       0x14 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+ .text._Z17Serial1_availablev
+                0x00000000       0x14 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+ .group         0x00000000        0x8 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .group         0x00000000        0x8 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5writeEPKc
+                0x00000000       0x2c /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x4a /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1c /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPKc
+                0x00000000        0x4 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000        0xe /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x14 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEv
+                0x00000000       0x28 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPKc
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0xb2 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x94 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000       0x10 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x30 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000       0x1a /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000        0xe /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x2e /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xc /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x2c /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .rodata.str1.1
+                0x00000000        0xe /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x1d6 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x4 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .text.micros   0x00000000       0x46 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .text.delay    0x00000000       0x50 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x14 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(hooks.o)
+ .text.__empty  0x00000000        0x2 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(hooks.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.mul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.div
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x58 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(floatsisf.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_inf.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_round.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_round.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_zero.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x4 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xc2 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(unordsf2.o)
+ .text          0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a(abort.o)
+ .bss           0x00000000        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a(abort.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800200         0x0000fe00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+LOAD ./src/main.o
+LOAD /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a
+LOAD /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a
+LOAD /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a
+START GROUP
+LOAD /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a
+LOAD /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a
+LOAD /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x894
+ *(.vectors)
+ .vectors       0x00000000       0xe4 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000e4                . = ALIGN (0x2)
+                0x000000e4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e4        0x0 linker stubs
+ *(.trampolines*)
+                0x000000e4                __trampolines_end = .
+ *(.progmem*)
+                0x000000e4                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000e4                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000e4        0x2 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+ .ctors         0x000000e6        0x2 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                0x000000e8                __ctors_end = .
+                0x000000e8                __dtors_start = .
+ *(.dtors)
+                0x000000e8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000e8        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+                0x000000e8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000e8       0x10 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000f8       0x1a /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+                0x000000f8                __do_copy_data
+ .init4         0x00000112       0x10 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+                0x00000112                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x00000122       0x1e /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+                0x00000122                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000140        0x4 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+ *(.init9)
+ *(.text)
+ .text          0x00000144        0x2 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+                0x00000144                __vector_42
+                0x00000144                __vector_22
+                0x00000144                __vector_28
+                0x00000144                __vector_1
+                0x00000144                __vector_32
+                0x00000144                __vector_34
+                0x00000144                __vector_24
+                0x00000144                __vector_12
+                0x00000144                __vector_55
+                0x00000144                __vector_46
+                0x00000144                __bad_interrupt
+                0x00000144                __vector_6
+                0x00000144                __vector_31
+                0x00000144                __vector_35
+                0x00000144                __vector_39
+                0x00000144                __vector_3
+                0x00000144                __vector_30
+                0x00000144                __vector_45
+                0x00000144                __vector_11
+                0x00000144                __vector_54
+                0x00000144                __vector_13
+                0x00000144                __vector_17
+                0x00000144                __vector_19
+                0x00000144                __vector_56
+                0x00000144                __vector_7
+                0x00000144                __vector_49
+                0x00000144                __vector_41
+                0x00000144                __vector_43
+                0x00000144                __vector_27
+                0x00000144                __vector_5
+                0x00000144                __vector_33
+                0x00000144                __vector_47
+                0x00000144                __vector_52
+                0x00000144                __vector_4
+                0x00000144                __vector_44
+                0x00000144                __vector_51
+                0x00000144                __vector_9
+                0x00000144                __vector_2
+                0x00000144                __vector_21
+                0x00000144                __vector_15
+                0x00000144                __vector_29
+                0x00000144                __vector_40
+                0x00000144                __vector_8
+                0x00000144                __vector_48
+                0x00000144                __vector_14
+                0x00000144                __vector_53
+                0x00000144                __vector_10
+                0x00000144                __vector_50
+                0x00000144                __vector_16
+                0x00000144                __vector_18
+                0x00000144                __vector_20
+                0x00000144                __vector_38
+                0x00000146                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN14HardwareSerial5writeEi
+                0x00000146        0xe ./src/main.o
+                0x00000146                _ZN14HardwareSerial5writeEi
+ .text.setup    0x00000154       0x20 ./src/main.o
+                0x00000154                setup
+ .text.loop     0x00000174       0x32 ./src/main.o
+                0x00000174                loop
+ .text.startup.main
+                0x000001a6        0x8 ./src/main.o
+                0x000001a6                main
+ .text._ZN14HardwareSerial9availableEv
+                0x000001ae       0x16 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000001ae                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x000001c4       0x1c /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000001c4                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x000001e0       0x28 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x000001e0                _ZN14HardwareSerial4readEv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000208       0x42 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00000208                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5flushEv
+                0x0000024a       0x42 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000024a                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x0000028c       0xc8 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x0000028c                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5beginEmh
+                0x00000354       0xc0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00000354                _ZN14HardwareSerial5beginEmh
+ .text.__vector_25
+                0x00000414       0x6c /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                0x00000414                __vector_25
+ .text.__vector_26
+                0x00000480       0x52 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                0x00000480                __vector_26
+ .text.startup._GLOBAL__sub_I___vector_25
+                0x000004d2       0x86 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+ .text.__vector_36
+                0x00000558       0x6c /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                0x00000558                __vector_36
+ .text.__vector_37
+                0x000005c4       0x52 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                0x000005c4                __vector_37
+ .text.startup._GLOBAL__sub_I___vector_36
+                0x00000616       0x86 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+ .text._ZN5Print5writeEPKhj
+                0x0000069c       0x50 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                0x0000069c                _ZN5Print5writeEPKhj
+ .text.__vector_23
+                0x000006ec       0x94 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x000006ec                __vector_23
+ .text.init     0x00000780       0xc4 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x00000780                init
+ .text.libgcc.div
+                0x00000844       0x44 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+                0x00000844                __udivmodsi4
+ .text.libgcc   0x00000888        0x8 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+                0x00000888                __tablejump_elpm__
+                0x00000890                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000890        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+                0x00000890                exit
+                0x00000890                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000890        0x4 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000894                _etext = .
+
+.data           0x00800200       0x10 load address 0x00000894
+                0x00800200                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+ .data          0x00800200        0x0 ./src/main.o
+ .data          0x00800200        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(hooks.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(floatsisf.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_cmp.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_inf.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_nan.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscA.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscB.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_round.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_split3.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_zero.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(unordsf2.o)
+ .data          0x00800200        0x0 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a(abort.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV14HardwareSerial
+                0x00800200       0x10 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                0x00800200                _ZTV14HardwareSerial
+ *(.gnu.linkonce.d*)
+                0x00800210                . = ALIGN (0x2)
+                0x00800210                _edata = .
+                0x00800210                PROVIDE (__data_end, .)
+
+.bss            0x00800210      0x143
+                0x00800210                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.Serial    0x00800210       0x9d /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                0x00800210                Serial
+ .bss.Serial1   0x008002ad       0x9d /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                0x008002ad                Serial1
+ .bss.timer0_fract
+                0x0080034a        0x1 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x0080034b        0x4 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0080034b                timer0_millis
+ .bss.timer0_overflow_count
+                0x0080034f        0x4 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                0x0080034f                timer0_overflow_count
+ *(COMMON)
+                0x00800353                PROVIDE (__bss_end, .)
+                0x00000894                __data_load_start = LOADADDR (.data)
+                0x000008a4                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800353        0x0
+                0x00800353                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800353                PROVIDE (__noinit_end, .)
+                0x00800353                _end = .
+                0x00800353                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 ./src/main.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000011       0x12 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000011       0x12 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+ .comment       0x00000011       0x12 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+ .comment       0x00000011       0x12 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+ .comment       0x00000011       0x12 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+ .comment       0x00000011       0x12 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(hooks.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(MultiSerialMega.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+Serial                                            /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                                                  ./src/main.o
+Serial1                                           /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  ./src/main.o
+_Z11serialEventv                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z12serialEvent1v                                 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z12serialEvent2v                                 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z12serialEvent3v                                 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z14serialEventRunv                               /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z17Serial0_availablev                            /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z17Serial1_availablev                            /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z17Serial2_availablev                            /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_Z17Serial3_availablev                            /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial17_tx_udr_empty_irqEv          /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+_ZN14HardwareSerial17availableForWriteEv          /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial3endEv                         /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial4peekEv                        /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial4readEv                        /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/main.o
+_ZN14HardwareSerial5beginEmh                      /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  ./src/main.o
+_ZN14HardwareSerial5flushEv                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial5writeEh                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_ZN14HardwareSerial5writeEi                       ./src/main.o
+_ZN14HardwareSerial9availableEv                   /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                                                  ./src/main.o
+_ZN5Print10printFloatEdh                          /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print11printNumberEmh                         /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEPK19__FlashStringHelper           /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEPKc                               /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printERK6String                         /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printERK9Printable                      /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEc                                 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEdi                                /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEhi                                /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEii                                /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEji                                /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEli                                /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5printEmi                                /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5writeEPKc                               /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print5writeEPKhj                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+_ZN5Print7printlnEPK19__FlashStringHelper         /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEPKc                             /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnERK6String                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnERK9Printable                    /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEc                               /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEdi                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEhi                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEii                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEji                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEli                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEmi                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZN5Print7printlnEv                               /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+_ZTV14HardwareSerial                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+_ZTV5Print                                        /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__addsf3                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__addsf3x                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+__bad_interrupt                                   /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__bss_end                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+__bss_start                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+__cmpsf2                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+__ctors_end                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+__ctors_start                                     /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+__cxa_deleted_virtual                             /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+__cxa_pure_virtual                                /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__data_end                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+__data_load_start                                 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+__data_start                                      /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+__divsf3                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__divsf3_pse                                      /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+__divsf3x                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+__do_clear_bss                                    /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_clear_bss.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+__do_copy_data                                    /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_copy_data.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+__do_global_ctors                                 /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+__eqsf2                                           /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+__fixsfsi                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__fixunssfsi                                      /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__floatsisf                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(floatsisf.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__floatunsisf                                     /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(floatsisf.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__fp_cmp                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_cmp.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(unordsf2.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+__fp_inf                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_inf.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+__fp_nan                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_nan.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+__fp_pscA                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscA.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+__fp_pscB                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_pscB.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+__fp_round                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_round.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+__fp_split3                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_split3.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+__fp_splitA                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_split3.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+__fp_szero                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_zero.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixsfsi.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(divsf3x.o)
+__fp_zero                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fp_zero.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(fixunssfsi.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3x.o)
+__gesf2                                           /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+__gtsf2                                           /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(gesf2.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__heap_end                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__init                                            /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__lesf2                                           /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__ltsf2                                           /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__mulsf3                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__mulsf3_pse                                      /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+__mulsf3x                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3x.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(mulsf3.o)
+__nesf2                                           /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(cmpsf2.o)
+__stack                                           /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__subsf3                                          /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(addsf3.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__tablejump_elpm__                                /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_tablejump_elpm.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_ctors.o)
+__udivmodsi4                                      /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_udivmodsi4.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial.o)
+__unordsf2                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libm.a(unordsf2.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(Print.o)
+__vector_1                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_10                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_11                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_12                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_13                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_14                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_15                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_16                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_17                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_18                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_19                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_2                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_20                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_21                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_22                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_23                                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_24                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_25                                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_26                                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial0.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_27                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_28                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_29                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_3                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_30                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_31                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_32                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_33                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_34                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_35                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_36                                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_37                                       /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(HardwareSerial1.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_38                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_39                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_4                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_40                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_41                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_42                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_43                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_44                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_45                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_46                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_47                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_48                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_49                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_5                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_50                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_51                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_52                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_53                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_54                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_55                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_56                                       /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_6                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_7                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_8                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_9                                        /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vector_default                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+__vectors                                         /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+_exit                                             /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a(abort.o)
+abort                                             /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/libc.a(abort.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(abi.o)
+delay                                             /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+delayMicroseconds                                 /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+exit                                              /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/avr6/libgcc.a(_exit.o)
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+init                                              /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+                                                  ./src/main.o
+loop                                              ./src/main.o
+main                                              ./src/main.o
+                                                  /Users/toanthanh/Downloads/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr6/crtm2560.o
+micros                                            /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+millis                                            /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+setup                                             ./src/main.o
+timer0_millis                                     /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+timer0_overflow_count                             /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
+yield                                             /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(hooks.o)
+                                                  /Users/toanthanh/Documents/workspace/ArduinoCore/Release/libArduinoCore.a(wiring.o)
